@@ -1,0 +1,16 @@
+[user]
+	name = raowaheedbhkpk-dev
+	email = rao.waheed.bhk.pk@gmail.com
+[safe]
+	directory = *
+	directory = /data/data/com.termux/files/home/storage/downloads/rainax-yt-downloader
+	directory = /data/data/com.termux/files/home/storage/downloads/rainax-yt-downloader
+	directory = /data/data/com.termux/files/home/storage/downloads/ytdl-app-v69
+	directory = /data/data/com.termux/files/home/storage/downloads/rainax-yt-downloader
+	directory = /data/data/com.termux/files/home/storage/downloads/rainax-yt-downloader
+[credential "https://github.com"]
+	helper = 
+	helper = !/data/data/com.termux/files/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/data/data/com.termux/files/usr/bin/gh auth git-credential

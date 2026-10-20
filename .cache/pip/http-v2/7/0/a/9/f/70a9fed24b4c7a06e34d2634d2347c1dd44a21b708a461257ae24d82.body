@@ -1,0 +1,9 @@
+Metadata-Version: 2.3
+Name: moviebox-api
+Version: 0.6.0
+Summary: X-Unofficial Python wrapper for Moviebox websites and Android app - download movies and tv series with their subtitles
+Author: Simatwa
+Author-email: Simatwa <simatwacaleb@gmail.com>
+Requires-Python: >=3.14
+Description-Content-Type: text/markdown
+
