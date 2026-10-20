@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_top">#FF1B2A4E</color>
+    <color name="bg_bottom">#FF0D1326</color>
+    <color name="gold">#FFFFD54F</color>
+    <color name="green">#FF43A047</color>
+    <color name="launcher_bg">#FF1B2A4E</color>
+</resources>
